@@ -1,19 +1,26 @@
 ### Hi there 👋, I'm Siam
 #### Future Data Scientist
-![Future Data Scientist](https://i.ibb.co/m5vnYPs/code.gif)
+![Future Data Scientist]
 
 ![Profile views](https://gpvc.arturio.dev/siamprogrammer)  
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: ✅ PYTHON ✅ Machine Learning ✅ WordPress ✅ HTML5 ✅ Photoshop / Illustrator
+Skills: 
+✅ PYTHON 
+✅ Machine Learning
+✅ WordPress 
+✅ HTML5 
+✅ Photoshop / Illustrator
 
 - 🌱 I’m currently learning Machine Learning 
 - 💬 Ask me about Python 
 - 📫 How to reach me: masipulislam@gmail.com 
 - 😄 Pronouns: I think I'm a good person. 
 - ⚡ Fun fact: I think I'm a funny person 
-
+ 
+ 
+<img data-target="animated-image.replacedImage" alt="GIF" class="AnimatedImagePlayer-animatedImage" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" height="320" style="width: 500px; display: block; opacity: 1;">
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/siamprogrammer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/siamprogrammer.bd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/siamprogrammer/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/siamprogrammer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/d)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCsBfRBeee13hzWW3uZP_EjA)  
 
