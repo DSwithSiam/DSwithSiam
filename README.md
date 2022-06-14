@@ -1,10 +1,10 @@
-### Hi there 👋, I'm Siam
-#### Future Data Scientist
+<h3 align="#">Assalamu Alaikum,👋 I'm Md Masipul Islam Siam </h3> 	
+<!--more-->
+<h3 align="#">Future Data Scientist</h3> 
 
 
-![Profile views](https://gpvc.arturio.dev/siamprogrammer)  
 
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,14 +21,20 @@
 <a href="https://youtube.com/in/UCsBfRBeee13hzWW3uZP_EjA" rel="nofollow">
   <img align="left" alt="youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" style="max-width: 100%;">
 </a>
-<br><br>
+<br>
+
+
+<br>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"><img align="right" alt="Coding"  height="320" width=500px; src="https://i.ibb.co/m5vnYPs/code.gif" style="max-width: 100%;"></a>
 
+![Profile views](https://gpvc.arturio.dev/siamprogrammer)  
 - 🌱 I’m currently learning <strong> Machine Learning </strong>
 - 💬 Ask me about <strong> Python </strong>
 - 📫 How to reach me:<strong> masipulislam@gmail.com </strong>
-- 😄 Pronouns:<strong> I think I'm a good person. </strong>
+- 🎯 2022 Goals: <strong>Machine Learning, Deep Learning </strong>
 - ⚡ Fun fact: <strong> I think I'm a funny person </strong>
+	
+	
 
 <h3 align="left">👨‍💻 Skills & Experiance:</h3>
 ✅ Python  <br>
