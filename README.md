@@ -10,11 +10,11 @@
 <p align="left">
 </p>
 
-<a href="https://linkedin.com/in/siamprogrammer" rel="nofollow">
+<a href="https://linkedin.com/in/DSwithSiam" rel="nofollow">
   <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
 </a>
 
-<a href="https://twitter.com/in/siamprogrammer" rel="nofollow">
+<a href="https://twitter.com/in/DSwithSiam" rel="nofollow">
   <img align="left" alt="twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
 </a>
 
@@ -26,7 +26,7 @@
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"><img align="right" alt="Coding"  height=320px; width=500px; src="https://i.ibb.co/m5vnYPs/code.gif" style="max-width: 100%;"></a>
 
 
-![Profile views](https://gpvc.arturio.dev/siamprogrammer)  
+![Profile views](https://gpvc.arturio.dev/DSwithSiam)  
 - 🌱 I’m currently learning <strong> Machine Learning </strong>
 - 💬 Ask me about <strong> Python </strong>
 - 📫 How to reach me:<strong> masipulislam@gmail.com </strong>
@@ -49,13 +49,13 @@
 
 <h3 align="left">Trophy:</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=siamprogrammer)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DSwithSiam)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siamprogrammer)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DSwithSiam)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=siamprogrammer&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DSwithSiam&show_icons=true&count_private=true)  
 
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=siamprogrammer)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DSwithSiam)  
 
