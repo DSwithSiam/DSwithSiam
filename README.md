@@ -18,7 +18,7 @@
   <img align="left" alt="twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
 </a>
 
-<a href="https://youtube.com/in/UCsBfRBeee13hzWW3uZP_EjA" rel="nofollow">
+<a href="https://youtube.com/channel/UCsBfRBeee13hzWW3uZP_EjA" rel="nofollow">
   <img align="left" alt="youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" style="max-width: 100%;">
 </a>
 <br>
