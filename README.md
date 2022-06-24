@@ -14,7 +14,7 @@
   <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
 </a>
 
-<a href="https://twitter.com/in/DSwithSiam" rel="nofollow">
+<a href="https://twitter.com/DSwithSiam" rel="nofollow">
   <img align="left" alt="twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
 </a>
 
