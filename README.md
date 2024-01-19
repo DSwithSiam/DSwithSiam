@@ -1,8 +1,8 @@
 <h3 align="#">Assalamu Alaikum,👋 I'm Md Masipul Islam Siam </h3> 	
 <!--more-->
-<h3 align="#">Poblem Solver <br></h3> 
+<h3 align="#">Poblem Solver & Backend Developer <br></h3> 
 
-- 💬 Ask me about <strong> Python </strong>
+- 💬 Ask me about <strong> Programming & Backend Development </strong>
 - 📫 How to reach me:<strong> masipulislam@gmail.com </strong>
 - 🎯 2024 Goals: <strong>Machine Learning, Deep Learning </strong>
 - ⚡ Fun fact: <strong> I think I'm a funny person </strong>
