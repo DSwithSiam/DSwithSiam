@@ -4,7 +4,7 @@
 
 - 💬 Ask me about <strong> Python </strong>
 - 📫 How to reach me:<strong> masipulislam@gmail.com </strong>
-- 🎯 2022 Goals: <strong>Machine Learning, Deep Learning </strong>
+- 🎯 2024 Goals: <strong>Machine Learning, Deep Learning </strong>
 - ⚡ Fun fact: <strong> I think I'm a funny person </strong>
 	
 	
