@@ -10,11 +10,11 @@
 	
 
 <h3 align="left">👨‍💻 Skills & Experiance:</h3>
-✅ C <br>
-✅ C++ <br>
-✅ Python  <br>
-✅ HTML5 <br>
-✅ CSS <br>
+✅ C, C++ & Python <br>
+✅ Django & Django Rest framework <br>
+✅ HTML5 & CSS <br>
+✅ Bootstrap and Tailwind CSS <br>
+✅ SQL, SQLite & PostgreSQL <br>
 
 
 <h3 align="left">Languages and Tools:</h3>
