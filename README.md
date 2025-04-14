@@ -2,7 +2,8 @@
 <h3 align="center">🌟Problem Solver | Backend Developer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7C04E&size=22&width=500&lines=I’m+currently+learning+Frameworks;Ask+me+about+Programming+%26+Backend+Development;How+to+reach+me:+masipulislam@gmail.com;I+think+I'm+a+funny+person!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7C04E&size=22&width=500&lines=I’m+currently+working+as+a+Backend+Developer;Ask+me+about+Python,+Django,+and+APIs;How+to+reach+me:+masipulislam@gmail.com;I+still+think+I'm+a+funny+person!" />
+
 </p>
 
 
