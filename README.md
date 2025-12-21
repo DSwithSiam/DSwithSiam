@@ -20,13 +20,14 @@ I enjoy building scalable backend systems, solving complex problems, and integra
 ## 🛠️ Tech Stack
 
 ### 🚀 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- Python  
+- C  
+- C++  
+- JavaScript  
 
 ### 🧩 Frameworks & Libraries
-- Django, Django REST Framework  
+- Django  
+- Django REST Framework  
 - FastAPI  
 - Bootstrap 5  
 
@@ -61,10 +62,10 @@ I enjoy building scalable backend systems, solving complex problems, and integra
 
 ### 🏢 Backend Developer — **Join Venture AI**
 📅 *January 21, 2025 – Present*
-- Developed and maintained RESTful APIs using **Django & DRF**
+- Developed and maintained RESTful APIs using **Django & Django REST Framework**
 - Integrated AI-based backend features with performance optimization
 - Collaborated in **Agile (Scrum & Kanban)** environments
-- Participated in code reviews, testing, and deployment pipelines
+- Participated in code reviews, testing, and deployment workflows
 
 ---
 
@@ -73,47 +74,6 @@ I enjoy building scalable backend systems, solving complex problems, and integra
 - Government ICT Division Project  
 - Trainer for **Sheikh Russel Digital Lab Python Programming Training 2023**
 - Taught Python programming to high school students
-
----
-
-## 🚀 Projects
-
-### 🥗 **Calz Tracker** (Mobile App)
-A minimal, science-backed food & activity tracking app  
-**Backend:** Django REST Framework, PostgreSQL, Celery, Redis  
-**Features:**  
-- Scheduler & Background Tasks  
-- Firebase Push Notifications  
-- Hosted on Hostinger  
-
-🔗 *App Link Available*
-
----
-
-### 🤖 **TextHumanizerPro**
-AI-powered text humanization & detection platform  
-**Backend:** Django REST Framework, Python  
-**Cloud:** AWS (EC2, S3, RDS), PostgreSQL  
-
-**Highlights:**  
-- AI Text Humanization Engine  
-- AI Content Detection Pipeline  
-- Secure REST APIs & Auth  
-- Performance Optimization  
-
-🔗 **GitHub | Live Demo**
-
----
-
-### 🛒 **NagarShop** (E-commerce Platform)
-**Tech:** Django, HTML, CSS, JavaScript, Bootstrap 5  
-
-**Contributions:**  
-- User Permission System  
-- Order & Return Management  
-- Cart & Order Filtering  
-
-🔗 **GitHub | Live Demo**
 
 ---
 
