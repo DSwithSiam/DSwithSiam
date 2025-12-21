@@ -81,11 +81,11 @@ I enjoy building scalable backend systems, solving complex problems, and integra
 
 🎓 **B.Sc in Computer Science & Engineering**  
 Canadian University of Bangladesh  
-📌 *2nd Year | CGPA: 3.53*
+📌 *2nd Year*
 
 🎓 **Diploma in Engineering (CST)**  
 Thakurgaon Polytechnic Institute  
-📌 *CGPA: 3.54 | 2023*
+📌 *CGPA: 3.64 | 2023*
 
 ---
 
@@ -97,8 +97,7 @@ Thakurgaon Polytechnic Institute
 
 ## 📫 Connect With Me
 - 📧 Email: **masipulislam@gmail.com**
-- 💼 LinkedIn: *(Add your LinkedIn URL)*
-- 🧑‍💻 GitHub: **https://github.com/masipulislam**
+- 💼 LinkedIn: **https://www.linkedin.com/in/dswithsiam/**
 - 📞 Phone: **+8801751379009**
 
 ---
