@@ -1,4 +1,14 @@
-# 👋 Hi, I'm Md. Masipul Islam Siam
+
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=800&size=40&duration=6000&pause=2000&color=58A6FF&background=00000000&center=true&vCenter=true&width=900&height=80&lines=Md.+Masipul+Islam+Siam;Python+Backend+Engineer;DRF++|++FastAPI+Specialist" />
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=58A6FF&height=2&section=header"/>
+
+<br/>
 
 🚀 **Backend Developer** | 🧠 Problem Solver | ⚙️ API & System Design Enthusiast  
 
@@ -103,3 +113,15 @@ Thakurgaon Polytechnic Institute
 ---
 
 ⭐ *Feel free to explore my repositories and connect with me!*  
+
+
+</div>
+
+
+### 🔗 Development Workflow
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dswithsiam&theme=vue-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=1F6FEB&area_color=0D47A1" alt="Development Activity Graph" width="100%"/>
+
+---
+<sub>⚡ Real-time metrics • 🎯 Engineering focus</sub>
+
+</div>
