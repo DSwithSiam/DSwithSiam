@@ -8,8 +8,9 @@
 
 <br/><br/>
 
-<a href="#"><img src="https://img.shields.io/badge/GitHub-1A3318?style=flat-square&logo=github&logoColor=8BBF5A" /></a>&ensp;
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-1A3318?style=flat-square&logo=linkedin&logoColor=8BBF5A" /></a>&ensp;
+<a href="https://github.com/DSwithSiam/"><img src="https://img.shields.io/badge/GitHub-1A3318?style=flat-square&logo=github&logoColor=8BBF5A" /></a>&ensp;
+<a href="https://siam.me"><img src="https://img.shields.io/badge/Portfolio-1A3318?style=flat-square&logo=google-chrome&logoColor=8BBF5A" /></a>&ensp;
+<a href="https://linkedin.com/in/dswithsiam"><img src="https://img.shields.io/badge/LinkedIn-1A3318?style=flat-square&logo=linkedin&logoColor=8BBF5A" /></a>&ensp;
 <a href="mailto:masipulislam@gmail.com"><img src="https://img.shields.io/badge/Email-1A3318?style=flat-square&logo=gmail&logoColor=8BBF5A" /></a>
 
 <br/><br/>
