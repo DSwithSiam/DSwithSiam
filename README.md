@@ -15,7 +15,7 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=dswithsiam&color=4A7A28&style=flat-square&label=profile+views + 1000)
+![Profile Views](https://komarev.com/ghpvc/?username=dswithsiam&color=4A7A28&style=flat-square&label=profile+views)
 </div>
 
 <br/>
