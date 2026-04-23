@@ -55,32 +55,67 @@
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A3318,100:2D5016&height=2" width="100%"/>
 
-<h2 align="center">— Tech Stack —</h2>
+<h2 align="center">🚀 My Tech Stack</h2>
 
 <div align="center">
 
-### 🧠 Backend
-![Python](https://img.shields.io/badge/Python-0F1A0E?style=flat-square&logo=python&logoColor=8BBF5A)
-![Django](https://img.shields.io/badge/Django-0F1A0E?style=flat-square&logo=django&logoColor=8BBF5A)
-![DRF](https://img.shields.io/badge/DRF-0F1A0E?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-0F1A0E?style=flat-square&logo=fastapi&logoColor=8BBF5A)
+<table>
+<tr>
+<td width="50%">
 
-### 🗄 Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F1A0E?style=flat-square&logo=postgresql&logoColor=8BBF5A)
-![MySQL](https://img.shields.io/badge/MySQL-0F1A0E?style=flat-square&logo=mysql&logoColor=8BBF5A)
-![MongoDB](https://img.shields.io/badge/MongoDB-0F1A0E?style=flat-square&logo=mongodb&logoColor=8BBF5A)
-![Redis](https://img.shields.io/badge/Redis-0F1A0E?style=flat-square&logo=redis&logoColor=8BBF5A)
+### 🧠 Backend & Languages
+<div style="padding-left: 10px;">
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,go,js,ts,c,cpp" />
+</div>
 
-### ⚙ DevOps
-![Docker](https://img.shields.io/badge/Docker-0F1A0E?style=flat-square&logo=docker&logoColor=8BBF5A)
-![Nginx](https://img.shields.io/badge/Nginx-0F1A0E?style=flat-square&logo=nginx&logoColor=8BBF5A)
-![AWS](https://img.shields.io/badge/AWS-0F1A0E?style=flat-square&logo=amazonaws&logoColor=8BBF5A)
+</td>
+
+<td width="50%">
+
+### 🗄️ Database & Cache
+<div style="padding-left: 10px;">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch" />
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⚙️ DevOps & Cloud
+<div style="padding-left: 10px;">
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,nginx,linux,githubactions,jenkins" />
+</div>
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI / ML
+<div style="padding-left: 10px;">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+<h3 align="center">🛠 Tools</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,postman,figma,vscode" />
+</div>
+
+</td>
+</tr>
+
+</table>
 
 </div>
 
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A3318,100:2D5016&height=2" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A3318,100:2D5016&height=3&section=footer" width="100%"/>
 <h2 align="center">— Work Experience —</h2>
 
 ### 💼 Backend Developer — Join Venture AI  
