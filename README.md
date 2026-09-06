@@ -29,7 +29,7 @@
 
 | | |
 |---|---|
-| 👤 | Backend Engineer (3+ Years Experience) |
+| 👤 | Software Engineer |
 | 🎓 | BSc CSE · Canadian University of Bangladesh |
 | 📊 | CGPA **3.53 / 4.00** |
 | 📍 | Dhaka, Bangladesh |
