@@ -115,26 +115,6 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A3318,100:2D5016&height=3&section=footer" width="100%"/>
-<h2 align="center">— Work Experience —</h2>
-
-### 💼 Backend Developer — Join Venture AI  
-📅 Jan 2025 – Present  
-
-- Built scalable REST APIs using Django & DRF  
-- Integrated AI features using OpenAI APIs  
-- Improved performance using Celery & Redis  
-- Dockerized services and deployed on Linux  
-
----
-
-### 👨‍🏫 Python Trainer — ICGS  
-📅 Feb 2024 – July 2024  
-
-- Taught Python fundamentals to students  
-- Conducted problem-solving sessions  
-- Worked on government ICT training project  
-
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A3318,100:2D5016&height=2" width="100%"/>
 
